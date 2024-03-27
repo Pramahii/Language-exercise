@@ -1,0 +1,10 @@
+p = int (input ("entr num")) 
+q = int (input ("entr num"))
+print (p)
+print (q)
+p = p * q 
+q = p / q
+p = p / q
+print ("swaped")
+print (p)
+print (q)
